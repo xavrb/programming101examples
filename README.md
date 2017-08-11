@@ -70,7 +70,7 @@ Como podemos ver en la siguiente imagen, no se trata de un error semántico, pue
  
 `d)` Un flotante puede almacenar un entero, ya que C++ aplica un cast al usar `cin`. Ver más [acá](https://es.wikipedia.org/wiki/Tipado_fuerte)
 
-![](https://github.com/xavrb/programming101blob/master/pregunta5/p5.png)
+![](https://github.com/xavrb/programming101/blob/master/pregunta5/p5.png)
 
 
 **Revisar código en `/pregunta5`**
@@ -98,7 +98,7 @@ d) Hay un error de sintaxis.
 ### ¿Por qué?
 Dentro del ciclo `do` se imprime `num` cuando vale 0 y desde ahí empieza a incrementar, hasta que la condición `while(num<=10)` es verdadera. Es por eso que la salida de ese código es: `0 2 4 6 8 10`, como se ve en:  
 
-![](https://github.com/xavrb/programming101blob/master/pregunta7/p7.png)
+![](https://github.com/xavrb/programming101/blob/master/pregunta7/p7.png)
 
 
  
@@ -176,7 +176,7 @@ El ciclo `for` es un for vacío, sólo va a aumentar `i`, pero no hay código de
 ```
 El código anterior `NO` es parte del ciclo for, por lo que solo imprime el valor de `i` cuando termina.  
 
-![](https://github.com/xavrb/programming101blob/master/pregunta9/p9.png)
+![](https://github.com/xavrb/programming101/blob/master/pregunta9/p9.png)
 
 
  
@@ -254,7 +254,7 @@ Es un ciclo for normal.
 Se puede ver en:
 
 
-![](https://github.com/xavrb/programming101blob/master/pregunta17/p17.png)  
+![](https://github.com/xavrb/programming101/blob/master/pregunta17/p17.png)  
 
 
 **Revisar código en `/pregunta17`**
@@ -286,7 +286,7 @@ d) 1
 Se puede ver en:
 
 
-![](https://github.com/xavrb/programming101blob/master/pregunta20/p20.png)
+![](https://github.com/xavrb/programming101/blob/master/pregunta20/p20.png)
 
 **Revisar código en `/pregunta20`**
 
