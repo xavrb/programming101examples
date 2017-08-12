@@ -276,7 +276,7 @@ cout << x<< " ";
 a) 1 2 3 4 5 6 7 8 9 10 11
 b) x x x x x x x x x x
 c) 11
-d) 1
+d) 1		RESPUESTA CORRECTA
 ```
 
 ### ¿Por qué?
